@@ -15,4 +15,4 @@
 
 ### Optionnel pour apprendre le terminal Linux / Mac :
 
-- [ ] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+- [x] Faire le wargame bandit jusqu'au niveau 5 (anglais)
