@@ -16,15 +16,15 @@
 - [ ] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
   - [ ] Voici un Awesome README : https://github.com/matiassingers/awesome-readme
 
-#### IA
-
-- [ ] Partager ses trucs et astuces sur l'utilisation des IAs
-  - [ ] Découvrir le prompt engineering sur ChatGPT
-
 #### Gitflow
 
 - [ ] Découvrir Gitflow
   - [ ] Créer un cheat sheet sur Gitflow
+
+#### IA
+
+- [ ] Partager ses trucs et astuces sur l'utilisation des IAs
+  - [ ] Découvrir le prompt engineering sur ChatGPT
 
 #### Code Tooling
 
