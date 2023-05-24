@@ -11,7 +11,7 @@
 
 - [X] Pimper son terminal (Zsh, Ohmyzsh, Powerlevel10k)
 - [X] Créer un cheat sheet sur les principales commandes du terminal
-- [ ] Setup ses alias
+- [x] Setup ses alias
 
 ### Optionnel pour apprendre le terminal Linux / Mac :
 

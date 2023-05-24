@@ -23,12 +23,12 @@
 
 #### IA
 
-- [ ] Partager ses trucs et astuces sur l'utilisation des IAs
-  - [ ] Découvrir le prompt engineering sur ChatGPT
+- [x] Partager ses trucs et astuces sur l'utilisation des IAs
+  - [x] Découvrir le prompt engineering sur ChatGPT
 
 #### Code Tooling
 
 - [x] Découvrir les linters et formaters
-  - [ ] Quelle est la différence entre un linter et un formater
+  - [x] Quelle est la différence entre un linter et un formater
   - [ ] Quels sont les principaux outils les plus répandus ?
   - [ ] Est-il préférable de l'installer en global sur la machine ou indépendémment sur chaque projet ?
