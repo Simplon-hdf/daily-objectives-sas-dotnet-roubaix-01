@@ -2,4 +2,6 @@
 
 ### Mercredi 24/05/2023
 
-Bonjour
+Préparation présentation fonctionnalités Git 
+
+Atelier CV - Victor 
